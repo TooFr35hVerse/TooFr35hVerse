@@ -1,16 +1,13 @@
-## Hi there 👋
+### just TooFr35hVerse, writing code 👋
 
-<!--
-**TooFr35hVerse/TooFr35hVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student passionate about algorithms, Linux, and open-source tools. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 💬 Ask me about C++
+- 🔭 Currently working on algorithms
+- 🌱 Learning Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=TooFr35hVerse&hide_border=true&theme=github" alt="Contribution graph" />
+
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=TooFr35hVerse&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img src="https://img.shields.io/badge/Linux-fb923c?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Java-fb923c?style=for-the-badge&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Git-fb923c?style=for-the-badge&logoColor=white" alt="Git" />
